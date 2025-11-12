@@ -46,7 +46,3 @@ Each step is visualized with `draw_geometries()` and printed metrics (points, tr
 - Minimum and maximum points are detected and highlighted with spheres.  
 - This shows vertical distribution and geometric extremes.
 
----
-
-## 📊 Console Output Example
-
